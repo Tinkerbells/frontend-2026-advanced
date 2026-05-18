@@ -1,0 +1,17 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Simple landing page with Node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "node watcher.js"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT"
+}
