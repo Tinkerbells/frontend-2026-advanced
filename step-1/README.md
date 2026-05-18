@@ -31,7 +31,7 @@ step-1/
 
 ## Preview
 
-![Landing Preview](assets/preview.png)
+![Landing Preview](../assets/preview.png)
 
 ---
 

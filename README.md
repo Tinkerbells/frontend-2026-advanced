@@ -57,7 +57,7 @@
 
 ## Preview
 
-![Landing Preview](step-1/assets/preview.png)
+![Landing Preview](assets/preview.png)
 
 ---
 
